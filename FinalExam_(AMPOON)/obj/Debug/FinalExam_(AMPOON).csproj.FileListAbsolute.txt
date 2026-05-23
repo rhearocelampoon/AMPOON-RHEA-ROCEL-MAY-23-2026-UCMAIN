@@ -1,0 +1,6 @@
+Z:\II204\AMPOON, RHEA ROCEL A\FINALS\FinalExam_(AMPOON)\FinalExam_(AMPOON)\bin\Debug\FinalExam_(AMPOON).exe.config
+Z:\II204\AMPOON, RHEA ROCEL A\FINALS\FinalExam_(AMPOON)\FinalExam_(AMPOON)\obj\Debug\FinalExam_(AMPOON).csprojResolveAssemblyReference.cache
+Z:\II204\AMPOON, RHEA ROCEL A\FINALS\FinalExam_(AMPOON)\FinalExam_(AMPOON)\bin\Debug\FinalExam_(AMPOON).exe
+Z:\II204\AMPOON, RHEA ROCEL A\FINALS\FinalExam_(AMPOON)\FinalExam_(AMPOON)\bin\Debug\FinalExam_(AMPOON).pdb
+Z:\II204\AMPOON, RHEA ROCEL A\FINALS\FinalExam_(AMPOON)\FinalExam_(AMPOON)\obj\Debug\FinalExam_(AMPOON).exe
+Z:\II204\AMPOON, RHEA ROCEL A\FINALS\FinalExam_(AMPOON)\FinalExam_(AMPOON)\obj\Debug\FinalExam_(AMPOON).pdb
